@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1>Hello, I'm Najee! <br/><a href="https://github.com/Njen4tech">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/najen2ab/">Linkedin</a>, <a href="https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB">Google IT Support </a></h1>
 
-<!--
-**Njen4tech/Njen4tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>💻 IT Support & Network Security Projects:</h2>
 
-Here are some ideas to get you started:
+- <b>Active Directory Server2019 (HOME LAb)</b>
+  - [Install/Set-up VirtualMachine](---)
+  - [Configuiring/Iso files](--)
+  - [Active Directory Server 2019](--)
+  - [Join Server Network Domain/Client Management)](--)
+- <b>Raspberry-PI & DNS Filtering</b>
+  - [Installing/Configure Rasp-PI Imaage](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</b></i>
+- <b>PowerShell</b>
+  - [--](-)
+- <b>Google IT Support Certificate</b>
+  - [Google IT Certificates)](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>📺 IT/Network Youtube Sites  
+</h2>
+
+- [KevTech IT](https://www.youtube.com/c/KevtechITSupport)
+- [Proffessor Messer](-)
+- [How to Create a KeyLogger (C#)](-)
+
+<h2> 🔎 Connect with me:</h2>
