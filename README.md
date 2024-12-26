@@ -11,12 +11,12 @@
 
 - <b>Raspberry-PI & DNS Filtering</b>
   - [Installing/Configure Rasp-PI Imaage](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</b></i>
-- <b>PowerShell</b>
+- <b>PowerShell Commands</b>
   - [--](-)
 - <b>Google IT Support Certificate</b>
   - [Google IT Certificates)](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
 
-<h2>📺 IT/Network Youtube Sites  
+<h2>📺 IT/Network Go-to Youtube Sites  
 </h2>
 
 - [KevTech IT](https://www.youtube.com/c/KevtechITSupport)
