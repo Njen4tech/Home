@@ -6,7 +6,7 @@
   - [Install/Set-up VirtualMachine](---)
   - [Configuiring/Iso files](--)
   - [Active Directory Server 2019](--)
-  - [Join Server Network/Client Management)](--)
+  - [Join Server Network/Client Management](--)
   - [Install/Set-up Pfsense](--)
 
 - <b>Raspberry-PI & DNS Filtering</b>
