@@ -2,7 +2,7 @@
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
-- <b>Active Directory Server2019 (HOME LAb)</b>
+- <b>Active Directory Server2019 (HOME LAB)</b>
   - [Install/Set-up VirtualMachine](---)
   - [Configuiring/Iso files](--)
   - [Active Directory Server 2019](--)
