@@ -4,7 +4,6 @@
 
 - <b>Active Directory Server2019 (HOME LAB)</b>
   - [Install/Set-up VirtualMachine](https://github.com/Njen4tech/VMware-Set-up)
-  - [Configuiring/ISO files](--)
   - [Active Directory Server 2019](--)
   - [Join Server Network/Client Management](--)
   - [Install/Set-up Pfsense](--)
