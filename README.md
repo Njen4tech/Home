@@ -9,7 +9,7 @@
   - [Install/Set-up Pfsense](--)
 
 - <b>Raspberry-PI & DNS Filtering</b>
-  - [Installing/Configure Rasp-PI Imaage](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</b></i>
+  - [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</b></i>
 - <b>PowerShell Commands</b>
   - [Easy Intro ](-)
 - <b>Google IT Support Certificate</b>
