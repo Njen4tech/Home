@@ -19,7 +19,7 @@
 </h2>
 
 - [KevTech IT](https://www.youtube.com/c/KevtechITSupport)
-- [Proffessor Messer](-)
-- [How to Linux](-)
+- [Proffessor Messer](https://www.professormesser.com/)
+- [How to Linux](https://www.youtube.com/@LearnLinuxTV)
 
 <h2> 🔎 Connect with me:</h2>
