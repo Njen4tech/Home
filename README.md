@@ -6,7 +6,7 @@
   - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
   - [Active Directory Server 2019](--)
   - [Join Server Network/Client Management](--)
-  - [Install/Set-up Pfsense](--)
+  - [Install/Set-up Pfsense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration)
 
 - <b>Raspberry-PI & DNS Filtering</b>
   - [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</b></i>
