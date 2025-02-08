@@ -8,7 +8,7 @@
   - [Join Server Network/Client Management](--)
   - [Install/Set-up Pfsense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration)
 
-- <b>Raspberry-PI & DNS Filtering</b>
+- <b>Raspberry-PI Set up </b>
   - [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</b></i>
 - <b>PowerShell Commands</b>
   - [Easy Intro ](-)
