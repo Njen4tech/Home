@@ -1,5 +1,5 @@
-remote_theme: pages-themes/merlot@v0.2.0
-plugins:
+theme: minimal-mistakes-jekyll
+
 - jekyll-remote-theme # add this line to the plugins list if you already have o
 Title: 💻 My IT Support Portfolio & Network Security Projects
 Description: This is a Test LAB to showcase my skills
