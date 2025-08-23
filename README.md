@@ -1,4 +1,5 @@
-<h1>Hello, I'm Najee! <br/><a href="https://github.com/Njen4tech">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/najen2ab/">Linkedin</a>, <a href="https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB">Google IT Support </a></h1>
+<h1>Hello, I'm Najee! <br/><a href="https://github.com/Njen4tech">IT Support Specialist</a>, <a href="https://www.linkedin.com/in/najen2ab/">Linkedin</a>, 
+<a href="https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB">Google IT Support </a></h1>
 
 <h2>💻 IT Support & Network Security Projects:</h2>
 
@@ -11,8 +12,9 @@
   - [Installing/Configure Rasp-PI Image](https://njen4tech.blogspot.com/) <b><i>(Step by Step Guide)</b></i>
 - <b>PowerShell Commands</b>
   - [Easy Intro ](-)
-- <b>Google IT Support Certificate</b>
+- <b> IT Certificate</b>
   - [Google IT Certificates](https://www.coursera.org/account/accomplishments/specialization/8XYGHPCPMLWB)
+  - [CompTIA A+ Certificate](https://www.credly.com/badges/1bcc0abc-5a50-4017-b773-791e23bac235/linked_in_profile)
 
 <h2>📺 Recommended YouTube Channels Sites  
 </h2>
