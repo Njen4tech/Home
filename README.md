@@ -4,8 +4,7 @@
 
 - <b>Active Directory Server2019 (HOME LAB)</b>
   - [Install/Set-up VirtualMachine(Home Lab)](https://github.com/Njen4tech/VMware-Set-up)
-  - [Active Directory Server 2019](--)
-  - [Join Server Network/Client Management](--)
+
   - [Install/Set-up Pfsense](https://github.com/Njen4tech/Pfsense-Firewall-Configuration)
 
 - <b>Raspberry-PI Set up </b>
